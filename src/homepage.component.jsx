@@ -26,7 +26,7 @@ const HomePage = () => (
       <div className="menu-item">
         <div className="content">
           <h1 className="title">WOMENS</h1>
-          <span className="subtitle">SHOP NOW</span>
+          <span className="subtitle">SHOP NOW222</span>
         </div>
       </div>
       <div className="menu-item">
